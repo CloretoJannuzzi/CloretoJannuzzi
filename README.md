@@ -9,8 +9,8 @@ Estou dando os meus primeiros passos para se tornar um excelente profissional em
 
 _Sou técnico em Rede de Computadores, apaixonado pela tecnologia😍._
 - 🧠 Atualmente focado em estudar para a certificação az-900, da microsoft.
-- 🐍 Estou aprendendo python para poder focar em automação de serviços.
-- 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo. 
+- 🐍 Aprendendo python para poder focar em automação de serviços.
+- 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publica-los. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cloretojannuzzi)
 
