@@ -5,7 +5,7 @@
 
 ### _Pessoalmente sou Victor Hugo e tenho 17 anos_
 
-Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras tecnologia💻
+Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras áreas💻
 
 _Sou técnico em Rede de Computadores, apaixonado pela tecnologia😍._
 - 🧠 Atualmente focado em estudar para a certificação az-900, da microsoft.
