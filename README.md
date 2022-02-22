@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou o Cloreto 👋
+<h1 align="center">
+ <img src="https://github.com/CloretoJannuzzi/read/blob/main/banner.png?raw=true"/>
+</h1>
 
-<!--
-**CloretoJannuzzi/CloretoJannuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _pessoalmente me chamo Victor e tenho 17 anos_
 
-Here are some ideas to get you started:
+Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras tecnologia💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Sou técnico em Rede de Computadores, apaixonado pela tecnologia😍._
+- 🧠 Atualmente focado em estudar para a certificação az-900, da microsoft.
+- 🐍 Estou aprendendo python para poder focar em automação de serviços.
+- 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cloretojannuzzi)
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CloretoJannuzzi) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-hugo-santos-5978b6216) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/victorh_jannuzzi/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008118695213)
+
