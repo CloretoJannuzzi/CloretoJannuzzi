@@ -3,7 +3,7 @@
  <img src="https://github.com/CloretoJannuzzi/CloretoJannuzzi/blob/main/banner.png?raw=true"/>
 </h1>
 
-### _pessoalmente me chamo Victor e tenho 17 anos_
+### _Pessoalmente sou Victor Hugo e tenho 17 anos_
 
 Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras tecnologia💻
 
