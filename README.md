@@ -1,6 +1,6 @@
 # Olá, eu sou o Cloreto 👋
 <h1 align="center">
- <img src="https://github.com/CloretoJannuzzi/read/blob/main/banner.png?raw=true"/>
+ <img src="https://github.com/CloretoJannuzzi/CloretoJannuzzi/blob/main/banner.png?raw=true"/>
 </h1>
 
 ### _pessoalmente me chamo Victor e tenho 17 anos_
