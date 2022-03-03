@@ -7,10 +7,15 @@
 
 Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras áreas💻
 
-_Sou técnico em Rede de Computadores, apaixonado pela tecnologia😍._
+_Sou técnico em Rede de Computadores, apaixonado pela tecnologia_ 😍
 - 🧠 Atualmente focado em estudar para a certificação az-900, da microsoft.
+- ☁️ Estudando Cloud por ser algo muito interessante devido às possibilidades.
 - 🐍 Aprendendo python para poder focar em automação de serviços.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
+
+Pequena página que estou fazendo só para relembrar alguns pontos: https://cloretojannuzzi.github.io
+
+_Devo refazer futuramente quando me aperfeiçoar._
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cloretojannuzzi)
 
