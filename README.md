@@ -12,6 +12,7 @@ _Sou técnico em Rede de Computadores, apaixonado pela tecnologia_ 😍
 - ☁️ Estudando Cloud por ser algo muito interessante devido às possibilidades.
 - 🐍 Aprendendo python para poder focar em automação de serviços.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
+- 🎲 Iniciando os estudos em Banco de Dados.
 
 Pequena página que estou fazendo só para relembrar alguns pontos: https://cloretojannuzzi.github.io ps: não está responsivo😅
 
