@@ -10,6 +10,8 @@
 
 ### _Pessoalmente sou Victor Hugo e tenho 18 anos_
 
+_Entretanto eu gosto de usar o nickname Cloreto._
+
 Estou dando os meus primeiros passos para se tornar um excelente profissional em ☁️, 🐍, desenvolvimento web e em outras áreas💻
 
 _Sou técnico em Rede de Computadores e Acelera na Dataside em Administração de Banco de Dados - SQL Server, apaixonado pela tecnologia_ 😍
