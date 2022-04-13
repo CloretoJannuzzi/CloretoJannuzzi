@@ -8,6 +8,11 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-hugo-santos-5978b6216) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/victorh_jannuzzi/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100008118695213)
 
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&themelight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&theme=light"/>
+</div>
+
 ### _Pessoalmente sou Victor Hugo e tenho 18 anos_
 
 _Entretanto eu gosto de usar o nickname Cloreto._
@@ -24,5 +29,3 @@ _Sou técnico em Rede de Computadores e Acelera na Dataside em Administração d
 Pequena página que estou fazendo só para relembrar alguns pontos: https://cloretojannuzzi.github.io ps: não está responsivo😅
 
 _Devo refazer futuramente quando me aperfeiçoar._
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cloretojannuzzi)
