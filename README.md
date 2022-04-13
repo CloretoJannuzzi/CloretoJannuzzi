@@ -1,7 +1,7 @@
 # Olá, eu sou o Cloreto 👋
 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649808700955.png"/>
+ <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649814806159.png"/>
 </h1>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CloretoJannuzzi) 
