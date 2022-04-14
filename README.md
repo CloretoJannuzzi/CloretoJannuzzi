@@ -11,8 +11,8 @@
   <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <div align='center'>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&themelight&include_all_commits=true&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&hide_border=true&theme=light"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&theme=Draculat&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&theme=Dracula"/>
  
 # Já utilizei: #
  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
@@ -47,3 +47,7 @@ Estou dando os meus primeiros passos para se tornar um excelente profissional em
 Pequena página que estou fazendo só para relembrar alguns pontos: https://cloretojannuzzi.github.io ps: não está responsivo😅
 
 _Devo refazer futuramente quando me aperfeiçoar._
+
+# _Commits:_
+
+![snake gif](https://github.com/cloretojannuzzi/cloretojannuzzi/blob/output/github-contribution-grid-snake.svg)
