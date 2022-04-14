@@ -34,14 +34,14 @@
 
 _Entretanto eu gosto de usar o nickname Cloreto._
 
-Estou dando os meus primeiros passos para se tornar um excelente profissional em 🏦🎲,☁️, 🐍, desenvolvimento web e em outras áreas💻
-
 _Sou técnico em Rede de Computadores e Acelera na Dataside em Administração de Banco de Dados - SQL Server, apaixonado pela tecnologia_ 😍
 - 🧠 Atualmente focado em estudar SQL Server(T-SQL).
 - ☁️ Estudando Cloud por ser algo muito interessante devido às possibilidades.
 - 🐍 Aprendendo python para poder focar em automação de serviços.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
 - 🎲 Iniciando na área de DBA em SQL Server na Dataside como Acelera Jovem.
+
+Estou dando os meus primeiros passos para se tornar um excelente profissional em 🏦🎲,☁️, 🐍, desenvolvimento web e em outras áreas💻
 
 Pequena página que estou fazendo só para relembrar alguns pontos: https://cloretojannuzzi.github.io ps: não está responsivo😅
 
