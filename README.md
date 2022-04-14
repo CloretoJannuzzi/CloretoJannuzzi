@@ -28,7 +28,10 @@
  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
  ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-
+### Atualmente utilizando mais: ###
+  ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+  ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 </div>
 
 ### _Pessoalmente sou Victor Hugo e tenho 18 anos_
@@ -37,7 +40,7 @@ _Entretanto eu gosto de usar o nickname Cloreto._
 # _Sobre mim:_
 
 _Sou técnico em Rede de Computadores e Acelera na Dataside em Administração de Banco de Dados - SQL Server, apaixonado pela tecnologia_ 😍
-- 🧠 Atualmente focado em estudar SQL Server(T-SQL).
+- 🧠 Atualmente focado nos estudos em SQL Server(T-SQL).
 - ☁️ Estudando Cloud por ser algo muito interessante devido às possibilidades.
 - 🐍 Aprendendo python para poder focar em automação de serviços.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
