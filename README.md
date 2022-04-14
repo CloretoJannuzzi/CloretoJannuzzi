@@ -11,8 +11,8 @@
   <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <div align='center'>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&theme=Draculat&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&theme=Dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&hide_border=true&langs_count=7&theme=dracula"/>
  
 # Já utilizei: #
  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
