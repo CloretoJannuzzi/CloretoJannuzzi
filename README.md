@@ -12,9 +12,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&themelight&include_all_commits=true&hide_border=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&hide_border=true&theme=light"/>
  
-</div>
-
-# Já usei: #
+# Já utilizei: #
  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
  ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
@@ -28,6 +26,8 @@
  ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
  ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+
+</div>
 
 ### _Pessoalmente sou Victor Hugo e tenho 18 anos_
 
