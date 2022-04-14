@@ -4,11 +4,12 @@
  <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649814806159.png"/>
 </h1>
 
- <a href = 'https://twitter.com/CloretoJannuzzi' target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
- <a href = 'https://www.linkedin.com/in/victor-hugo-santos-5978b6216'  target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
- <a href='https://www.instagram.com/victorh_jannuzzi/'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
- <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-
+<div align='center'>
+  <a href = 'https://twitter.com/CloretoJannuzzi' target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href = 'https://www.linkedin.com/in/victor-hugo-santos-5978b6216'  target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href='https://www.instagram.com/victorh_jannuzzi/'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>
 <div align='center'>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cloretojannuzzi&show_icons=true&themelight&include_all_commits=true&hide_border=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloretojannuzzi&layout=compact&langs_count=7&hide_border=true&theme=light"/>
