@@ -1,7 +1,7 @@
 # Olá, eu sou o Cloreto 👋
 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649814806159.png"/>
+ <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649820403164.png"/>
 </h1>
 
 <div align='center'>
