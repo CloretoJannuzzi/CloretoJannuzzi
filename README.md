@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor 👋
+# Olá, bem-vindo(a) ao meu perfil👋
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649820403164.png"/>
@@ -36,7 +36,7 @@
 
 # _Sobre mim:_
 
-_Sou técnico em Rede de Computadores e Acelera na Dataside em Administração de Banco de Dados - SQL Server, apaixonado pela tecnologia_ 😍
+_tenho 18, moro no RJ, sou técnico em Rede de Computadores e Acelera na Dataside em Administração de Banco de Dados - SQL Server, apaixonado pela tecnologia_ 😍
 - 🧠 Atualmente focado nos estudos em SQL Server(T-SQL).
 - ☁️ Estudando Cloud por ser algo muito interessante devido às possibilidades.
 - 🐍 Aprendendo python para poder focar em automação de serviços.
