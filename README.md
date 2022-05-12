@@ -1,4 +1,4 @@
-# Olá, eu sou o Cloreto 👋
+# Olá, eu sou o Victor 👋
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649820403164.png"/>
@@ -33,9 +33,6 @@
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 </div>
-
-### _Pessoalmente sou Victor Hugo e tenho 18 anos_
-_Entretanto eu gosto de usar o nickname Cloreto._
 
 # _Sobre mim:_
 
